@@ -5,18 +5,18 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "title"
+  "title2"
  ],
  "fields": [
   {
-   "fieldname": "title",
+   "fieldname": "title2",
    "fieldtype": "Data",
-   "label": "Title"
+   "label": "Title2"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-28 11:26:39.057986",
+ "modified": "2025-01-28 14:26:21.177757",
  "modified_by": "Administrator",
  "module": "Test1",
  "name": "Test12",
