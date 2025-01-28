@@ -6,6 +6,7 @@ test1.patches.raise_error4
 test1.patches.raise_error5
 test1.patches.raise_error6
 test1.patches.raise_error7
+test1.patches.raise_error8
 # Patches added in this section will be executed before doctypes are migrated
 # Read docs to understand patches: https://frappeframework.com/docs/v14/user/en/database-migrations
 
