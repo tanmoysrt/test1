@@ -7,7 +7,8 @@
  "field_order": [
   "title4",
   "title5",
-  "titl89"
+  "titl89",
+  "tile678"
  ],
  "fields": [
   {
@@ -24,11 +25,16 @@
    "fieldname": "titl89",
    "fieldtype": "Data",
    "label": "Titl89"
+  },
+  {
+   "fieldname": "tile678",
+   "fieldtype": "Data",
+   "label": "Tile678"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-28 18:39:19.858507",
+ "modified": "2025-01-28 19:37:30.611067",
  "modified_by": "Administrator",
  "module": "Test1",
  "name": "Test12",
