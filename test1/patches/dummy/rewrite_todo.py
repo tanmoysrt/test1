@@ -2,8 +2,9 @@ import frappe
 
 
 def execute():
-	docs = frappe.get_all("Test12")
-	for doc in docs:
+	records = frappe.get_all("Test12", pluck="name")
+	for r in records:
+		doc = frappe.get_doc("Test12", r.name)
 		doc.title4 = doc.title4 + " rewrite"
 		doc.save()
 	frappe.db.commit()
