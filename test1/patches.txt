@@ -1,6 +1,6 @@
 [pre_model_sync]
-test1.dummy.patches.rewrite_todo
-test1.dummy.patches.raise_error_14
+test1.patches.dummy.rewrite_todo
+test1.patches.dummy.raise_error_14
 # Patches added in this section will be executed before doctypes are migrated
 # Read docs to understand patches: https://frappeframework.com/docs/v14/user/en/database-migrations
 
