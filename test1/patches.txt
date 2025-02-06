@@ -5,6 +5,7 @@ test1.patches.dummy.raise_error_14
 test1.patches.dummy.raise_error_15
 test1.patches.dummy.raise_error_16
 test1.patches.dummy.raise_error_17
+test1.patches.dummy.raise_error_18
 # Patches added in this section will be executed before doctypes are migrated
 # Read docs to understand patches: https://frappeframework.com/docs/v14/user/en/database-migrations
 
